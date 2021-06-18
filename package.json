@@ -1,0 +1,21 @@
+{
+  "name": "competitive-programming-practice",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "Solution to problems i solve to practice competitive programming and learn algorithms",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CLIcoder/competitive-programming-practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CLIcoder/competitive-programming-practice/issues"
+  },
+  "homepage": "https://github.com/CLIcoder/competitive-programming-practice#readme"
+}
