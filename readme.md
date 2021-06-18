@@ -21,7 +21,7 @@ Feel free to check my solution to the problems if you want to get another point 
 - [@clicoder](https://www.github.com/octokatherine)
 
 ## Please! 🙂 
-- if you found an optimise solution for any given problem contat me at : 
+- if you found an optimise solution for any given problem contact me at : 
 
 - [@linkedin](https://www.linkedin.com/in/youssef-houmazen-clicoder-%F0%9F%92%BB-395267150/)
   
