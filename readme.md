@@ -13,3 +13,15 @@ Feel free to check my solution to the problems if you want to get another point 
 - solution.js : Soultion with javascript
 - solution-test.js : testing the solution
 - pseudo-doc.md : algorithm logic / and problem doc
+
+
+
+## Author
+
+- [@clicoder](https://www.github.com/octokatherine)
+
+## Please! 🙂 
+- if you found an optimise solution for any given problem contat me at : 
+
+- [@linkedin](https://www.linkedin.com/in/youssef-houmazen-clicoder-%F0%9F%92%BB-395267150/)
+  
